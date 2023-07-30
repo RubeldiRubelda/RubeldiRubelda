@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RubeldiRubelda
-- 👀 I’m interested in JS , HTML, CSS , Discord.JS
-- 🌱 I’m currently learning  JS , HTML, CSS , Discord.JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: buisiness.ruebel@gmail.com or per Discord
+- 🧀 I’m from Switzerland.
+- 👀 I’m interested in JS , HTML, CSS , Discord.JS , Python , Programming
+- 🌱 I’m currently learning  Python , JS , HTML, CSS , Discord.JS
+- 📫 How to reach me: You can reach me on Discord.
 
 <!---
 RubeldiRubelda/RubeldiRubelda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
