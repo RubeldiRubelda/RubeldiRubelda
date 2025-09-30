@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RubeldiRubelda
 - 🧀 I’m from Switzerland.
 - 👀 I’m interested in JS , HTML, CSS , Discord.JS , Python , Programming
-- 🌱 I’m currently learning  Python , JS , HTML, CSS , Discord.JS
+- 🌱 I’m currently learning  Python , C# , SQL 
 - 📫 How to reach me: You can reach me on Discord. @einfachruebel
 
 <!---
