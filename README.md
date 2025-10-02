@@ -1,3 +1,5 @@
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 - 👋 Hi, I’m @RubeldiRubelda
 - 🧀 I’m from Switzerland.
 - 👀 I’m interested in JS , HTML, CSS , Discord.JS , Python , Programming
