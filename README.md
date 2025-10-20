@@ -35,6 +35,10 @@ Languages:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+Office Products i use:
+
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
 - 👋 Hi, I’m @RubeldiRubelda
 - 🧀 I’m from Switzerland.
 - 👀 I’m interested in JS , HTML, CSS , Discord.JS , Python , Programming
